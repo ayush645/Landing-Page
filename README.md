@@ -20,3 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+![Screenshot 2024-06-02 113111](https://github.com/ayush645/Landing-Page/assets/80757890/9310ea00-9676-458b-b580-ec3847013839)
+
+
+
